@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Bash script taht displays list of curent running process
+#  Must show process hierarchy
+#  Display in a user-oriented format
+#  Must show all processes, for all users with those which might not have a TTY
+
+ps f a
