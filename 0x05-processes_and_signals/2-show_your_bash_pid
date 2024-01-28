@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Bash script that displays lines conataining the bash word allowing you to easily get  the PID of your bash process
+# Do not use pgrep
+
+./1-list_your_processes | grep "bash"
