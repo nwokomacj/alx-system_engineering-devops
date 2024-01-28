@@ -4,4 +4,4 @@
 #  Display in a user-oriented format
 #  Must show all processes, for all users with those which might not have a TTY
 
-ps f a
+ps f
